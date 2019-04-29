@@ -3,7 +3,7 @@
 ###### This is an H6 header (smallest)
 
 ## Summary
-This repository contains all of the notes taken by [Victor](https://github.com/MisterMintTea) for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Victor](https://github.com/MisterMintTea) for the [Lighthouse Labs](https://lighthouselabs.ca/) Web Development Bootcamp.
 
 ## Table of Contents
 * [Week 1](/Week_1)
